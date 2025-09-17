@@ -5,7 +5,7 @@ It is organised to support **data management, reproducibility, and collaboration
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 - **Data/**  
   Contains raw and processed datasets used in the project.  
@@ -24,7 +24,7 @@ It is organised to support **data management, reproducibility, and collaboration
 
 ---
 
-## 🔑 Guidelines for Collaboration
+## Guidelines for Collaboration
 
 1. **File Naming Convention**  
    - Use clear and consistent names:  
@@ -47,7 +47,7 @@ It is organised to support **data management, reproducibility, and collaboration
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project explores the use of **Generative AI techniques** to analyse, process, and generate data for research purposes.  
 The repository demonstrates good practices in:  
@@ -58,7 +58,7 @@ The repository demonstrates good practices in:
 
 ---
 
-## ✅ How to Contribute
+## How to Contribute
 
 1. Clone the repository to your local machine.  
 2. Create a new branch for your work.  
