@@ -13,11 +13,7 @@ This repository contains coursework and project materials for the Generative AI 
 
 
 ## How to Contribute
-
-1. Clone the repository to your local machine.  
-2. Create a new branch for your work.  
-3. Commit changes with clear messages.  
-4. Push the branch and submit a pull request.  
+  
 
 ---
 
