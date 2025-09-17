@@ -1,2 +1,7 @@
+
+Developer Yongxuan added a new entry here for tut6 activity.
+Change2
+
 Each of the code developers will modify the content in “Project_logbook.txt”.
 Please note that at this step, the code developers need to modify different parts of the .txt file, i.e., change the content in different lines.
+
