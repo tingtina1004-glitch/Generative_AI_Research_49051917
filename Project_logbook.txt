@@ -1,2 +1,4 @@
 Each of the code developers will modify the content in “Project_logbook.txt”.
 Please note that at this step, the code developers need to modify different parts of the .txt file, i.e., change the content in different lines.
+
+Added my contribution as a code developer on branch example_xyz.
